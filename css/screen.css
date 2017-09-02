@@ -1,0 +1,13 @@
+.content-module-main a img{
+    //border:#F00000 solid 1px;
+    margin: 8px;
+     border-radius: 0.3125em; /* 5/16 */
+    -moz-border-radius: 0.3125em; /* 5/16 */
+    -webkit-border-radius: 0.3125em; /* 5/16 */
+}
+.content-module-main a img:hover{
+   box-shadow: 0 0 0px 4px rgba(0, 0, 0, 0.5); 
+   transform: scale(1.04) translateY(-5px); 
+   z-index: 1; 
+    
+}
