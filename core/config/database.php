@@ -1,7 +1,7 @@
 <?php
 	class Database {
 		
-		private $servername = "spryiqdb.cvgl3kaxacs1.us-east-1.rds.amazonaws.com";
+		private $servername = "localshost";
 		private $username = "johnsmith";
 		private $password = "welcome2pune";
 		private $db = "justdrop";
